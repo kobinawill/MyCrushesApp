@@ -1,3 +1,3 @@
 # MyCrushesApp
-These are files of MrCrushedApp second edition
+These are files of MrCrushesApp second edition
 This app was created with flutter
