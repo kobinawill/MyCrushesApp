@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5390d0b-7801-43b5-b813-0768e79df9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/ui/My_Crushes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/My_Crushes.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

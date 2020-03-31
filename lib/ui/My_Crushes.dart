@@ -12,11 +12,11 @@ class My_Crushes extends StatefulWidget {
 class my_crushes extends State<My_Crushes> {
   var map = {
     1:  "Racheal was my first ever crush, from class 2 to class 6",
-    2:  "Efua Aidoo was from outside the country as at that time we were in primary 5. She's pursing political science now at Legon",
+    2:  "Efua Aidoo was from outside the country as at that time we were in primary 5",
     3:  "Deborah is an Ivorian. She was the lady I was obsessed with the most. It took me 3 years to get over her",
     4:  "Georgina was the most submisive and I respected her for that, still do",
     5:  "Eugenia is the youngest on the list, she is very beautiful and intelligent. She wants to become a doctor",
-    6:  "Portia is the best shaped amongst the rest, it's a marvel to look at her backside, she's vying for a leadership role in school"
+    6:  "Portia is the best shaped amongst the rest, it's a marvel to look at her backside"
   };
 
   var map_2 = {
